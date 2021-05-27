@@ -1,0 +1,2 @@
+[8/05/2021 12:43:57 PM]>[WARNING LOG]>INITIALISED
+[8/05/2021 12:43:57 PM]>[CoreWebApi.Controllers.WeatherForecastController]>THIS IS A WARNING
